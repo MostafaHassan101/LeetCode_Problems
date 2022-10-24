@@ -21,6 +21,6 @@ def numDecodingsHelper(s: str, n: int) -> int:
 
 
 # Driver code
-digits = "111111111111111111111111111111111111111111111"
+digits = "11111"
 print("Count is ", numDecodings(digits))
 # This code is contributed by Frank Hu
